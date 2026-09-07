@@ -1,7 +1,7 @@
 # TaskNest
 It is used to manage tasks
 
-# Requirements for TaskBuddy Project 
+Requirements for TaskBuddy Project 
 Name: TaskBuddy
 
 Type: Task Management Application
